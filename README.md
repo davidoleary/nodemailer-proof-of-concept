@@ -1,0 +1,1 @@
+Nodemailer POC to rapidly test its usage outside of main app
